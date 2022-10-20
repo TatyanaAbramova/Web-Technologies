@@ -1,0 +1,39 @@
+body {
+    width: auto;
+    margin: 0 auto;
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-03/1614796395_143-p-fon-dlya-menyu-kafe-206.jpg");    
+    padding: 0 20px 20px 20px;
+    border: 2px solid white;
+   }
+h1{
+    color: rgb(60, 60, 61);
+    text-align: center;   
+    padding: 100px 0;
+    text-shadow: px 2px 1px white;
+    width: 1000
+}
+h2{
+    color: rgb(60, 60, 61);
+    text-align: center;
+    padding: 50px 0;
+}
+ul{
+    border: 2px solid rgb(168, 171, 177);
+    padding: .5em;
+    display: flex;
+    list-style: none;
+    width: 600px;
+    margin: 0 auto;
+}
+.block,
+li{
+   
+    padding: .5em;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 180px;
+}
